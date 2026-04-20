@@ -1,1 +1,2 @@
 1, Vanshika, Developer
+2, Khushi, Manager
