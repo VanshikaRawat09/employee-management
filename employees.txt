@@ -1,2 +1,1 @@
-1, Vanshika, Developer
-2, Khushi, Manager
+1, Vanshika, Developer, IT
